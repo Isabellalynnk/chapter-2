@@ -1,0 +1,7 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\MadLips\MadLips\bin\Debug\MadLips.exe.config
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\MadLips\MadLips\bin\Debug\MadLips.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\MadLips\MadLips\bin\Debug\MadLips.pdb
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\MadLips\MadLips\obj\Debug\MadLips.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\MadLips\MadLips\obj\Debug\MadLips.csproj.CoreCompileInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\MadLips\MadLips\obj\Debug\MadLips.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\MadLips\MadLips\obj\Debug\MadLips.pdb

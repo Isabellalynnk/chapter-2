@@ -1,0 +1,7 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\projectedRaises\projectedRaises\bin\Debug\projectedRaises.exe.config
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\projectedRaises\projectedRaises\bin\Debug\projectedRaises.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\projectedRaises\projectedRaises\bin\Debug\projectedRaises.pdb
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\projectedRaises\projectedRaises\obj\Debug\projectedRaises.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\projectedRaises\projectedRaises\obj\Debug\projectedRaises.csproj.CoreCompileInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\projectedRaises\projectedRaises\obj\Debug\projectedRaises.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\projectedRaises\projectedRaises\obj\Debug\projectedRaises.pdb
