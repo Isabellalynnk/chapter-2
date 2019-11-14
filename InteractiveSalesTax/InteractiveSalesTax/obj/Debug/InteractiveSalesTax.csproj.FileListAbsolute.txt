@@ -1,0 +1,7 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\chapter-2\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\InteractiveSalesTax.exe.config
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\chapter-2\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\InteractiveSalesTax.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\chapter-2\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\InteractiveSalesTax.pdb
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\chapter-2\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\InteractiveSalesTax.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\chapter-2\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\InteractiveSalesTax.csproj.CoreCompileInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\chapter-2\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\InteractiveSalesTax.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-2\chapter-2\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\InteractiveSalesTax.pdb
